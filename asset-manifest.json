@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/ClaimManagement/static/css/main.1b45218e.css",
-    "main.js": "/ClaimManagement/static/js/main.75b50fd7.js",
+    "main.js": "/ClaimManagement/static/js/main.bee3b2d0.js",
     "index.html": "/ClaimManagement/index.html",
     "main.1b45218e.css.map": "/ClaimManagement/static/css/main.1b45218e.css.map",
-    "main.75b50fd7.js.map": "/ClaimManagement/static/js/main.75b50fd7.js.map"
+    "main.bee3b2d0.js.map": "/ClaimManagement/static/js/main.bee3b2d0.js.map"
   },
   "entrypoints": [
     "static/css/main.1b45218e.css",
-    "static/js/main.75b50fd7.js"
+    "static/js/main.bee3b2d0.js"
   ]
 }
